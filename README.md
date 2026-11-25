@@ -15,9 +15,24 @@
   <a href="https://courtsapp.com/privacy-policy">Privacy</a>
 </p>
 
+<p align="center">
+  <a href="https://glama.ai/mcp/connectors/com.courtsapp/mcp"><img src="https://glama.ai/mcp/connectors/com.courtsapp/mcp/badges/score.svg" alt="CourtsApp MCP connector on Glama"></a>
+</p>
+
 ---
 
-CourtsApp is the official hosted MCP server from [CourtsApp](https://courtsapp.com). Ask your AI assistant for a court near any US city and get open times, prices and a link to book.
+CourtsApp MCP is the official hosted MCP server from [CourtsApp](https://courtsapp.com), the court booking app for [pickleball](https://courtsapp.com/sports/pickleball), [tennis](https://courtsapp.com/sports/tennis) and [padel](https://courtsapp.com/sports/padel). Ask Claude, ChatGPT, Cursor or any MCP client for a court near any US city and get open court times, prices and a link to book.
+
+Use it to:
+
+- Find and book pickleball, tennis and padel courts near you
+- See every open time at one club on one day
+- Find open play and drop-in sessions with spots left
+- Find a pickleball or tennis coach and book a lesson
+- Find pickleball and tennis tournaments and leagues
+- Get club details: hours, address, phone, amenities and policies
+
+Browse every club on CourtsApp at [courtsapp.com/facilities](https://courtsapp.com/facilities).
 
 - **Server URL:** `https://api.courtsapp.com/mcp`
 - **Transport:** Streamable HTTP
@@ -158,7 +173,7 @@ In Claude and ChatGPT, results show as interactive cards with a map, club profil
 - `record_click` keeps the kind of link, the club, the destination and which assistant showed the card. It keeps nothing about the person.
 - Court bookings are paid on CourtsApp's own checkout page, never inside the chat.
 
-Full policy: [courtsapp.com/privacy-policy](https://courtsapp.com/privacy-policy)
+Full policy: [courtsapp.com/privacy-policy](https://courtsapp.com/privacy-policy). Terms: [courtsapp.com/terms-of-use](https://courtsapp.com/terms-of-use).
 
 ## Listings
 
@@ -169,6 +184,7 @@ Full policy: [courtsapp.com/privacy-policy](https://courtsapp.com/privacy-policy
 - [MCP Market](https://mcpmarket.com/server/courtsapp)
 - [mcp.so](https://mcp.so/server/courtsapp)
 - [mcpservers.org](https://mcpservers.org/servers/courtsapp-com)
+- [LobeHub](https://lobehub.com/mcp/courtsapp-courtsapp-mcp)
 
 ## Support
 
