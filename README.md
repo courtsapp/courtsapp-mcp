@@ -29,7 +29,7 @@ This repo holds docs only. The server is hosted by CourtsApp, so there is nothin
 ## What you can ask
 
 ```text
-Find a pickleball court near Austin, TX tomorrow around 6pm.
+Find a pickleball court near Plainville, CT tomorrow around 6pm.
 What tennis courts are open near 10010 this Saturday morning?
 Is there open play near Westbury, NY tonight?
 Find me a tennis coach in Phoenix for weekend evenings.
@@ -102,6 +102,25 @@ Add this to `.vscode/mcp.json`:
   }
 }
 ```
+
+### Cline
+
+Open **MCP Servers → Configure**, or edit `cline_mcp_settings.json` (Cline CLI: `~/.cline/data/settings/cline_mcp_settings.json`), and add:
+
+```json
+{
+  "mcpServers": {
+    "courtsapp": {
+      "type": "streamableHttp",
+      "url": "https://api.courtsapp.com/mcp",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
+```
+
+Keep any servers already in the file. Cline loads the file when a new task starts.
 
 ### Grok Build
 
