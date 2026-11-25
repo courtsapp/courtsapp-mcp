@@ -43,13 +43,41 @@ This repo holds docs only. The server is hosted by CourtsApp, so there is nothin
 
 ## What you can ask
 
-```text
-Find a pickleball court near Plainville, CT tomorrow around 6pm.
-What tennis courts are open near 10010 this Saturday morning?
-Is there open play near Westbury, NY tonight?
-Find me a tennis coach in Phoenix for weekend evenings.
-Any pickleball tournaments near Dallas next month?
-```
+Ask the way you'd text a friend. CourtsApp answers with live open times, prices and a link to book.
+
+**Book a court**
+
+- "Where can I play pickleball tonight?"
+- "Tennis courts near me open Saturday morning"
+- "Book a padel court Saturday at 9am"
+- "Any indoor pickleball courts open now near 85016?"
+- "Find a pickleball court near Plainville, CT tomorrow around 6pm"
+
+**Open play and drop-in**
+
+- "Pickleball open play near me tonight"
+- "Drop-in tennis this weekend"
+- "Beginner open play in Scottsdale"
+- "I'm solo, where can I find a game?"
+
+**Coaches and lessons**
+
+- "Pickleball lessons near me"
+- "Find a tennis coach in Phoenix for weekend evenings"
+- "Tennis lessons for my kid"
+- "Who can help me fix my serve this week?"
+
+**Tournaments and leagues**
+
+- "Pickleball tournaments near Dallas next month"
+- "Tennis leagues in Austin"
+- "When does registration close for Moneyball?"
+
+**Club details**
+
+- "What time does the club open?"
+- "Does it have indoor courts?"
+- "How much is the per-player fee?"
 
 ## Screenshots
 
