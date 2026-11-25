@@ -147,6 +147,9 @@ Full policy: [courtsapp.com/privacy-policy](https://courtsapp.com/privacy-policy
 - [ChatGPT apps](https://chatgpt.com/plugins/plugin_asdk_app_69c2eac29cb48191bc7130dc309935c3)
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.courtsapp/mcp): `com.courtsapp/mcp`
 - [Glama](https://glama.ai/mcp/connectors/com.courtsapp/mcp)
+- [MCP Market](https://mcpmarket.com/server/courtsapp)
+- [mcp.so](https://mcp.so/server/courtsapp)
+- [mcpservers.org](https://mcpservers.org/servers/courtsapp-com)
 
 ## Support
 
